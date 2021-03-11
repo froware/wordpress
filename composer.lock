@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9c25ba92a93423692182395eb6088482",
+    "content-hash": "d55519c6d02031f3404ce57ec6236525",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -2657,15 +2657,15 @@
         },
         {
             "name": "wpackagist-theme/generatepress",
-            "version": "2.4.2",
+            "version": "3.0.3",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/generatepress/",
-                "reference": "2.4.2"
+                "reference": "3.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/generatepress.2.4.2.zip"
+                "url": "https://downloads.wordpress.org/theme/generatepress.3.0.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
